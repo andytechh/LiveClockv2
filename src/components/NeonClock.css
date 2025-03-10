@@ -1,0 +1,18 @@
+.neon-clock-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: black;
+  }
+  
+  .neon-clock {
+    font-size: 3rem;
+    color: cyan;
+    text-shadow: 0 0 5px cyan, 0 0 10px cyan, 0 0 20px cyan;
+    padding: 20px;
+    border: 3px solid cyan;
+    border-radius: 10px;
+    background: rgba(0, 0, 0, 0.7);
+  }
+  
